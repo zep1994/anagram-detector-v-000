@@ -10,5 +10,6 @@ class Anagram
   
   def self.name
     @word.sort == name.sort
+  end
   
 end
