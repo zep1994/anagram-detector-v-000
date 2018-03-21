@@ -7,8 +7,6 @@ class Anagram
   end 
   
   
-  def self.name
-    @word.sort == name.sort
-  end
+ 
   
 end
